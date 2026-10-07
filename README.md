@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0e7490&height=200&section=header&text=Priyanshu&fontSize=64&fontColor=e2e8f0&fontAlignY=38&desc=full%20stack%20developer%20%C2%B7%20observability%20%C2%B7%20bare-metal%20tooling&descSize=16&descColor=94a3b8&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0e7490&height=200&section=header&text=Hey%2C%20I'm%20Priyanshu&fontSize=56&fontColor=e2e8f0&fontAlignY=42&desc=I%20build%20things%20that%20keep%20other%20things%20running&descSize=16&descColor=94a3b8&descAlignY=62" width="100%" alt="header"/>
 
 <a href="https://github.com/priyanshu2400">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=67E8F9&center=true&vCenter=true&width=640&lines=Building+observability+as+a+service;Bare-metal+provisioning+tooling;Go+%C2%B7+Python+%C2%B7+OpenTelemetry;Full+stack+from+API+to+UI" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=67E8F9&center=true&vCenter=true&width=640&lines=Full+stack+developer;Obsessed+with+good+telemetry;Bare-metal+tooling+on+the+side+of+everything+else;Go+%C2%B7+Python+%C2%B7+a+bit+of+React" alt="typing"/>
 </a>
 
 <br/><br/>
@@ -18,16 +18,14 @@
 
 <br/>
 
-## ⚡ About
+## 👋 A little about me
 
-Full stack developer with hands-on experience building **observability as a service** and **bare-metal provisioning tooling**. I work mostly in **Go** and **Python**, and I like systems that are easy to operate and easy to debug when something goes wrong.
-
-```text
-role      →  full stack developer
-building  →  observability platforms, provisioning automation
-daily     →  Go, Python, OpenTelemetry, Linux
-based in  →  Bangalore, India
-```
+- 🔭 Building **observability as a service**, so teams can see what their code is actually doing in production
+- 🖥️ Working on **bare-metal provisioning tooling**, where software meets real servers
+- 🛠️ Full stack by habit: APIs and infra in **Go** and **Python**, interfaces in **React**
+- 💬 Ask me about **OpenTelemetry**, distributed tracing, or getting a Go service properly instrumented
+- ⚔️ Competitive programmer on the side, because I like a good problem
+- 📍 Bangalore, India
 
 <br/>
 
